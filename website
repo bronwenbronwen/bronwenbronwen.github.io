@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bronwen</title>
+    <style>
+        body {
+            font-family: "Times New Roman", Times, serif;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <img src="image.jpg" alt="This is what I look like" width="400">
+    <p>Bronwen Brenner is a writer based between New York City, where she was born and raised, and St. Louis, Missouri, where is an MFA candidate.</p>
+
+</body>
+</html>
